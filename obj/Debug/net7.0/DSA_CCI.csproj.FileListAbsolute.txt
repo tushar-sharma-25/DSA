@@ -1,0 +1,15 @@
+D:\CCI\bin\Debug\net7.0\DSA_CCI.exe
+D:\CCI\bin\Debug\net7.0\DSA_CCI.deps.json
+D:\CCI\bin\Debug\net7.0\DSA_CCI.runtimeconfig.json
+D:\CCI\bin\Debug\net7.0\DSA_CCI.dll
+D:\CCI\bin\Debug\net7.0\DSA_CCI.pdb
+D:\CCI\obj\Debug\net7.0\DSA_CCI.csproj.AssemblyReference.cache
+D:\CCI\obj\Debug\net7.0\DSA_CCI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCI\obj\Debug\net7.0\DSA_CCI.AssemblyInfoInputs.cache
+D:\CCI\obj\Debug\net7.0\DSA_CCI.AssemblyInfo.cs
+D:\CCI\obj\Debug\net7.0\DSA_CCI.csproj.CoreCompileInputs.cache
+D:\CCI\obj\Debug\net7.0\DSA_CCI.dll
+D:\CCI\obj\Debug\net7.0\refint\DSA_CCI.dll
+D:\CCI\obj\Debug\net7.0\DSA_CCI.pdb
+D:\CCI\obj\Debug\net7.0\DSA_CCI.genruntimeconfig.cache
+D:\CCI\obj\Debug\net7.0\ref\DSA_CCI.dll
