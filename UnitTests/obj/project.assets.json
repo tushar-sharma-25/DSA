@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "DSA_CCI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DSA_CCI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DSA_CCI.dll": {}
+        }
       }
     }
   },
@@ -5506,10 +5516,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "DSA_CCI/1.0.0": {
+      "type": "project",
+      "path": "../DSA_CCI.csproj",
+      "msbuildProject": "../DSA_CCI.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DSA_CCI >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5522,11 +5538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CCI\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "E:\\CCI\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\CCI\\UnitTests\\UnitTests.csproj",
+      "projectPath": "E:\\CCI\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\tusha\\.nuget\\packages\\",
-      "outputPath": "D:\\CCI\\UnitTests\\obj\\",
+      "outputPath": "E:\\CCI\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tusha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5542,7 +5558,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\CCI\\DSA_CCI.csproj": {
+              "projectPath": "E:\\CCI\\DSA_CCI.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

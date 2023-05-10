@@ -1,5 +1,17 @@
-﻿namespace UnitTests.StringsTests;
+﻿using DSA_CCI.Strings;
+using Xunit;
 
-internal class UniqueCharactersTests_
+namespace UnitTests.StringsTests;
+
+public class UniqueCharactersTests
 {
+    [Fact]
+    public void ShouldRetrunTrueWhenUnique()
+    {
+        var input = "abc";
+        var result = UniqueCharacters.isUniqueChars(input);
+
+        Assert.True(result);
+    }
+
 }

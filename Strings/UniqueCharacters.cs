@@ -2,7 +2,7 @@
 
 namespace DSA_CCI.Strings;
 
-internal class UniqueCharacters
+public class UniqueCharacters
 {
     // problem 1.1 in CCI
     public static bool isUniqueChars(string input)

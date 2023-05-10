@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CCI\\DSA_CCI.csproj": {}
+    "E:\\CCI\\DSA_CCI.csproj": {}
   },
   "projects": {
-    "D:\\CCI\\DSA_CCI.csproj": {
+    "E:\\CCI\\DSA_CCI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CCI\\DSA_CCI.csproj",
+        "projectUniqueName": "E:\\CCI\\DSA_CCI.csproj",
         "projectName": "DSA_CCI",
-        "projectPath": "D:\\CCI\\DSA_CCI.csproj",
+        "projectPath": "E:\\CCI\\DSA_CCI.csproj",
         "packagesPath": "C:\\Users\\tusha\\.nuget\\packages\\",
-        "outputPath": "D:\\CCI\\obj\\",
+        "outputPath": "E:\\CCI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tusha\\AppData\\Roaming\\NuGet\\NuGet.Config",
